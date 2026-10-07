@@ -4,13 +4,13 @@
 
 ## Team
 
-| # | Name | Student Number | Video Segment | GitHub Role |
-|---|------|----------------|---------------|-------------|
-| 1 | _Name_ | _Number_ | Intro | Repo setup and starter Issues |
-| 2 | _Name_ | _Number_ | What happened | Topic Discussion and Issue tracking |
-| 3 | _Name_ | _Number_ | Why it matters | Sources list and citation checks |
-| 4 | _Name_ | _Number_ | What's next | Slides and combined script |
-| 5 | _Name_ | _Number_ | Conclusion | Video editing and YouTube upload |
+| # | Name | Video Segment | GitHub Role |
+|---|------|---------------|-------------|
+| 1 | _Name_ |  Intro | Repo setup and starter Issues |
+| 2 | _Name_ |  What happened | Topic Discussion and Issue tracking |
+| 3 | _Name_ |  Why it matters | Sources list and citation checks |
+| 4 | _Name_ |  What's next | Slides and combined script |
+| 5 | _Name_ | Conclusion | Video editing and YouTube upload |
 
 **Topic:** _TBD (decided in GitHub Discussions)_
 **YouTube link (public):** _TBD_
