@@ -48,7 +48,33 @@ AI-generated results can also contain mistakes, meaning developers still need to
 
 ### Script
 
-*To be added.*
+Although REA has some useful applications, it also raises
+important legal and ethical concerns.
+
+One major issue is copyright. Reverse engineering software
+is not necessarily illegal, but using REA to recreate
+commercial applications could violate copyright laws or
+software licences, especially if protected code is copied
+or the resulting software is distributed without permission.
+
+Another concern is security and privacy. REA works with AI
+coding agents that may access information from the software
+being analyzed. If that information includes sensitive data,
+developers need to be careful about what is shared with
+external AI services.
+
+There is also a risk when analyzing unknown or suspicious
+programs, since running them could expose a computer to
+malicious software.
+
+Looking ahead, tools like REA could make reverse engineering
+more accessible to developers without specialized experience.
+However, companies may respond by keeping more of their
+important software and data on protected servers.
+
+Ultimately, AI can help with the technical work, but developers
+will still be responsible for checking the results, respecting
+software licences, and deciding how these tools should be used.
 
 ---
 
