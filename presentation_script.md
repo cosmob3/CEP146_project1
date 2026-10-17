@@ -30,7 +30,15 @@ In this presentation, we'll briefly explain what REA does, why it matters to dev
 
 ### Script
 
-*To be added.*
+REA could have a significant impact on how developers work with existing software.
+
+By connecting AI coding agents with tools like Ghidra and Hopper, it can help developers understand programs that have little or no documentation.
+
+This could be useful for maintaining older software, identifying security problems, or recreating features that developers want to improve.
+
+However, there are also risks. For example, REA could make it easier to create copies of existing applications, which raises concerns about copyright and intellectual property.
+
+AI-generated results can also contain mistakes, meaning developers still need to review and test the code themselves.
 
 ---
 
