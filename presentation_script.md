@@ -16,8 +16,6 @@ In this presentation, we'll briefly explain what REA does, why it matters to dev
 
 ## 2. Background and Timeline - Mahta Nojavan
 
-**Speaker:** Mahta Nojavan
-
 ### Script
 
 REA, which stands for Reverse Engineer Anything, is an
@@ -43,7 +41,6 @@ engineering tools are evolving.
 
 ## 3. Impact on Developers - Micaela Ivanova Suarez Vargas
 
-**Speaker:** Micaela Ivanova Suarez Vargas
 
 ### Script
 
@@ -61,7 +58,6 @@ AI-generated results can also contain mistakes, meaning developers still need to
 
 ## 4. Ethics and Future Outlook - Bryan Velasco
 
-**Speaker:** Bryan Velasco
 
 ### Script
 
@@ -98,3 +94,13 @@ software licences, and deciding how these tools should be used.
 ## 5. Conclusion
 
 **Speaker:** 
+
+To conclude, REA is a good example of how AI is changing
+software development.
+
+What once required specialized reverse-engineering knowledge
+can now be made easier with the help of AI coding agents.
+
+As our research shows, REA could help developers understand
+older software, identify security issues, and recreate
+existing features.
