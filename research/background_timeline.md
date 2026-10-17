@@ -5,6 +5,7 @@
 REA (Reversa Engineer Anything) is a tool designed to make reversa engineering easier to use with coding agents. Reverse 
 engineering is the process of understanding how software works by examining the program itself. With REA, a coding agent can inspect a program or webpage, follow its code, and use information such as code references and runtime observations to explain how a specific feature works.
 The main idea behind REA is to connect coding agents with tools that can investigate software in more detail.This allows a user to ask questions about how a feature works and use the collected evidence to understand or potentially rebuild that feature.
+REA supports several types of software analysis. Its documented workflows include native executables and libraries, JavaScript and Electron applications, browser pages, managed assemblies , Android ARKS, fireware and packaged resources.This makes REA useful for investigating software across different platforms and technologies.
 
 ## Timeline
 
