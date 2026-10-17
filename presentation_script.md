@@ -20,7 +20,24 @@ In this presentation, we'll briefly explain what REA does, why it matters to dev
 
 ### Script
 
-*To be added.*
+REA, which stands for Reverse Engineer Anything, is an
+open-source project that helps AI coding agents analyze
+and understand existing software.
+
+It works by allowing AI agents to examine code, inspect
+how programs behave, and use reverse-engineering tools
+to better understand how applications function.
+
+The project was renamed REA in July 2026, when versions
+0.2.0 and 0.3.0 were released.
+
+Since then, development has continued quickly. In October
+alone, the project released version 6.3 on October 9,
+version 6.4 on October 11, and version 6.5 on October 13.
+
+These frequent updates show how actively the project is
+being developed and how quickly AI-assisted reverse
+engineering tools are evolving.
 
 ---
 
