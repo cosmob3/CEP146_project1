@@ -23,15 +23,19 @@ flowchart TD
 2.	**Understand:** The AI coding agent uses REA’s output to understand the application’s functions, dependencies, and behavior
 3.	**Rebuild:** The AI coding agent uses this information to write and assess new code.  
 
-
+**Illustration 1**
+*REA Workflow*
 ![REA workflow](https://raw.githubusercontent.com/morluto/rea/refs/heads/main/website/public/assets/figures/rea-investigation-flow.svg)
-
-(N0zoM1z0, 2026)
+*Note.* From *rea-investigation-flow.svg*, by N0zoM1z0, 2026 (https://github.com/morluto/rea/blob/main/website/public/assets/figures/rea-investigation-flow.svg).
 
 ### Example of REA’s Application  
 *Developed by: Abid Ali Awan (2026)*  
 [Reverse Engineer Chrome’s Dinosaur Game](https://www.datacamp.com/tutorial/reverse-engineer-anything-rea-tutorial)
 
+**Illustration 2**
+*Chrome’s Dinosaur Game ~ REA*
+![Chrome’s Dinosaur Game ~ REA](https://media.datacamp.com/cms/b0db54dd8cf0296c98a49c4c8b1538da.png)
+*Note.* From *Reverse Engineer Anything Tutorial: Using REA and Pi Coding Agent*, by Abid Ali Awan, 2026 (https://www.datacamp.com/tutorial/reverse-engineer-anything-rea-tutorial)
 
 ## IS REA REALLY USEFUL FOR DEVELOPERS?  
 
@@ -51,6 +55,10 @@ flowchart TD
 REA still develops some inaccurate versions, because it cannot always recover the complete source code, and some software’s are not fully supported:
 >  “On the project’s site, the apps carry ‘early alpha’ or ‘in development’ labels, and one pixel artist has already described the Photoshop clone as ‘completely unusable’” (Tsagkarakis, 2026).
 
+**Illustration 3**
+*Advantages and disadvantages for developers*
+![Advantages and disadvantages for developers](https://cdn-images-1.medium.com/max/1200/1*-Blgj_4bwQ4-R-jx4ixVIg.png)
+*Note.* From *REA Reverse Engineering Tool: Can AI Clone Your App's Features?*, by Mahesh Gupta, 2026 (https://www.mayhemcode.com/2026/10/rea-reverse-engineering-tool-can-ai.html)
 
 ## SURVIVING OR THRIVING? GUIDE FOR DEVELOPERS  
 
@@ -75,12 +83,22 @@ Perspective of REA: Thomas describes ArtCraft as a “clean-room reimplementatio
 He also states: 
 > “If you’re worried this is just some one-off flash in the pan that will die, it isn’t”  (Gray, 2026)
 
+**Illustration 4**
+*ArtCraft*
+![ArtCraft](https://nymynet.com/wp-content/uploads/2026/10/ArtCraft-Review-Free-Adobe-Microsoft-Office-Alternatives-Download-Tips.webp)
+*Note.* From *ArtCraft Review: Fee Adobe & Microsoft Office Alternatives (Download & Tips)*, by Isaac Odwako, 2026 (https://nymynet.com/artcraft-review-free-adobe-microsoft-office-alternatives-download-tips/)
+
 ### Ivan Kutskir ~ Photopea creator
 On the other hand, Kutskir expresses a more negative perspective on REA. He explains that people use AI to copy his website’s JavaScript code, remove its advertisements, and publish modified versions on GitHub. He states:  
 > “Many people are asking AI models to take the Javascript code from my website, remove all ads from it, and they publish such a "new product" on Github for everyone > to download.” (Hacker News, 2026)  
 
 Kutskir is also concerned about the impact on his reputation, explaining that users sometimes mistake modified Photopea versions with the official website.
 > “[…] I want my website to be the only source of a stable version of my program Photopea. I even received emails from people complaining about something in Photopea, and it took several emails to figure out that they are not using Photopea.com (so it ruins my reputation a little). I reported it to Github on the 4th of September 2026: […] a month later, I received this response: […] based on the facts presented to us, we're unable to confirm a violation of 17 U.S. Code § 1201.” (Hacker News, 2026)
+
+**Illustration 5**
+*Photopea*
+![Photopea](https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/03/photopea-puppet-warp-up-close.png?q=49&fit=contain&w=750&h=422&dpr=2)
+*Note.* From *6 hidden features in Photopea that make it a true Photoshop competitor*, by Nolen Jonker, 2025 (https://www.xda-developers.com/hidden-features-in-photopea-that-rival-photoshop/)
 
 ## REFERENCES  
 -	Ali, A. (2026, October 14). Reverse Engineer Anything Tutorial: Using REA and Pi Coding Agent. *datacamp*. https://www.datacamp.com/tutorial/reverse-engineer-anything-rea-tutorial 
@@ -89,9 +107,12 @@ Kutskir is also concerned about the impact on his reputation, explaining that us
 -	Chavez-Mattos, L. (2026, october 11). AI Cloned Photoshop. What’s Left of the Software Moat? *MindStudio*. https://www.mindstudio.ai/blog/ai-recreated-photoshop-software-moat
 -	Chavez-Mattos, L. (2026, October 11). Reverse Engineer Anything: What the Viral REA MCP Actually Does. *MindStudio*. https://www.mindstudio.ai/blog/reverse-engineer-anything-mcp
 -	Gray, J. (2026, October 7). Someone Rebuilt Free, Open-Source Versions of Photoshop, Premiere, and Lightroom Using AI. *PetaPixel*. https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/ 
+-	Gupta, M. (2026, October 11). REA Reverse Engineering Tool: Can AI Clone your App’s Features? Mayhemcode. https://www.mayhemcode.com/2026/10/rea-reverse-engineering-tool-can-ai.html
 -	Hacker News. (2026, October 7). Tell HN: GitHub refuses to remove cracked copies of my software after a month. *Hacker News*. https://news.ycombinator.com/item?id=49982498
+-	Jonker, N. (2025, April 1). 6 hidden features in Photopea that make it a true Photoshop competitor. XDA. https://www.xda-developers.com/hidden-features-in-photopea-that-rival-photoshop/
 -	Kodisang, A. (2026, September 30). Reverse engineering software: benefits & challenges. *Scrums.com*. https://www.scrums.com/blog/reverse-engineering-software
--	N0zoM1z0. (2026, October 10). rea/website/public/assets/figures/rea-investigation-flow.svg. *GitHub*. https://github.com/morluto/rea/blob/main/website/public/assets/figures/rea-investigation-flow.svg 
+-	N0zoM1z0. (2026, October 10). rea-investigation-flow.svg. *GitHub*. https://github.com/morluto/rea/blob/main/website/public/assets/figures/rea-investigation-flow.svg 
+-	Odwako, I. (2026, October 18). ArtCraft Review: Free Adobe & Microsoft Office Alternatives (Download & Tips) - Nymy Net. Nymy Net. https://nymynet.com/artcraft-review-free-adobe-microsoft-office-alternatives-download-tips/
 -	Roman, R. (2026, October 10). REA can reverse engineer anything. it still can’t hack your bank. *Rafael Roman*. https://rafaelroman.com/articles/ai-reverse-engineering-cant-hack-your-bank/
 -	Tsagkarakis, G. (2026, October 14). AI Reverse Engineering Tool REA Explodes On GitHub As Modders Port GTA V To IPhone And Clone Adobe's. *eGamers.io*. https://egamers.io/ai-reverse-engineering-tool-rea-explodes-on-github-as-modders-port-gta-v-to-iphone-and-clone-adobes-suite/
 
