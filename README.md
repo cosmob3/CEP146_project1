@@ -1,6 +1,15 @@
-# Project Presentation: Software Development Current Event Topics
-
+# Project Presentation: The Rise Of REA(Reverse Engineer Anything)
+---
 Team Members: Curtis Carpio, Rei Jashari, Micaela Ivanova Suarez Vargas, Mahta Nojavan, & Bryan Velasco
 
 Youtube link: https://www.youtube.com/watch?v=1dRBjOGKw8w
+---
+
+REA (Reverse Engineer Anything) is an open-source tool that lets AI coding agents analyze existing software, using reverse-engineering tools like Ghidra and Hopper, and help recreate features.
+
+**Background**: REA was renamed in July 2026 and has released updates quickly since then, including versions 6.3, 6.4 and 6.5 between Oct 9 and Oct 13.
+
+**Impact**: It could help with undocumented or legacy code and security analysis. It also makes copying apps easier, and AI output still needs human review.
+
+**Ethics and Outlook**: The concerns are copyright and licensing, sharing sensitive data with external AI services, and the malware risk of running unknown programs. Companies may respond by moving more software to protected servers.
 
