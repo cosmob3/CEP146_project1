@@ -13,7 +13,7 @@
 | 5 | Curtis Carpio | Conclusion | Video editing and YouTube upload |
 
 **Topic:** REA - Reverse Engineer Anything.
-**YouTube link (public):** _TBD_
+**YouTube link (public):** https://www.youtube.com/watch?v=1dRBjOGKw8w
 
 ---
 
