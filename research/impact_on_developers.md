@@ -32,6 +32,7 @@ flowchart TD
 *Developed by: Abid Ali Awan (2026)*  
 [Reverse Engineer Chrome’s Dinosaur Game](https://www.datacamp.com/tutorial/reverse-engineer-anything-rea-tutorial)
 
+![Chrome’s Dinosaur Game ~ REA](https://media.datacamp.com/cms/b0db54dd8cf0296c98a49c4c8b1538da.png)
 
 ## IS REA REALLY USEFUL FOR DEVELOPERS?  
 
@@ -51,6 +52,7 @@ flowchart TD
 REA still develops some inaccurate versions, because it cannot always recover the complete source code, and some software’s are not fully supported:
 >  “On the project’s site, the apps carry ‘early alpha’ or ‘in development’ labels, and one pixel artist has already described the Photoshop clone as ‘completely unusable’” (Tsagkarakis, 2026).
 
+![Advantages and disadvantages for developers](https://cdn-images-1.medium.com/max/1200/1*-Blgj_4bwQ4-R-jx4ixVIg.png)
 
 ## SURVIVING OR THRIVING? GUIDE FOR DEVELOPERS  
 
@@ -75,12 +77,16 @@ Perspective of REA: Thomas describes ArtCraft as a “clean-room reimplementatio
 He also states: 
 > “If you’re worried this is just some one-off flash in the pan that will die, it isn’t”  (Gray, 2026)
 
+![ArtCraft](https://nymynet.com/wp-content/uploads/2026/10/ArtCraft-Review-Free-Adobe-Microsoft-Office-Alternatives-Download-Tips.webp)
+
 ### Ivan Kutskir ~ Photopea creator
 On the other hand, Kutskir expresses a more negative perspective on REA. He explains that people use AI to copy his website’s JavaScript code, remove its advertisements, and publish modified versions on GitHub. He states:  
 > “Many people are asking AI models to take the Javascript code from my website, remove all ads from it, and they publish such a "new product" on Github for everyone > to download.” (Hacker News, 2026)  
 
 Kutskir is also concerned about the impact on his reputation, explaining that users sometimes mistake modified Photopea versions with the official website.
 > “[…] I want my website to be the only source of a stable version of my program Photopea. I even received emails from people complaining about something in Photopea, and it took several emails to figure out that they are not using Photopea.com (so it ruins my reputation a little). I reported it to Github on the 4th of September 2026: […] a month later, I received this response: […] based on the facts presented to us, we're unable to confirm a violation of 17 U.S. Code § 1201.” (Hacker News, 2026)
+
+![Photopea](https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/03/photopea-puppet-warp-up-close.png?q=49&fit=contain&w=750&h=422&dpr=2)
 
 ## REFERENCES  
 -	Ali, A. (2026, October 14). Reverse Engineer Anything Tutorial: Using REA and Pi Coding Agent. *datacamp*. https://www.datacamp.com/tutorial/reverse-engineer-anything-rea-tutorial 
