@@ -2,7 +2,7 @@
 ---
 Team Members: Curtis Carpio, Rei Jashari, Micaela Ivanova Suarez Vargas, Mahta Nojavan, & Bryan Velasco
 
-Youtube link: https://www.youtube.com/watch?v=1dRBjOGKw8w
+[Youtube link](https://www.youtube.com/watch?v=1dRBjOGKw8w)
 ---
 
 REA (Reverse Engineer Anything) is an open-source tool that lets AI coding agents analyze existing software, using reverse-engineering tools like Ghidra and Hopper, and help recreate features.
